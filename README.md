@@ -97,5 +97,3 @@ We implemented and evaluated the following classification algorithms:
 - **Comprehensive visualizations** for model interpretation
 - **Stratified train-test split** to handle class imbalance
 - **Log transformation and scaling** to normalize skewed distributions
-
-## 📁 Repository Structure
